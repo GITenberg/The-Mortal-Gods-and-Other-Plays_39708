@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9123
     wikipedia: http://en.wikipedia.org/wiki/Olive_Tilford_Dargan
 description: The mortal gods -- A son of Hermes -- Kidmir.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39708#The-Mortal-Gods-and-Other-Plays
 gutenberg_issued: '2012-05-16'
 gutenberg_type: Text
 identifiers:
